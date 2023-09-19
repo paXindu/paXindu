@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pasindu</h1>
+<h2 align="center">Hi 👋, I'm Pasindu</h2>
 <h3 align="center">Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paXindu&label=Profile%20views&color=0e75b6&style=flat" alt="paXindu" /> </p>
@@ -12,9 +12,11 @@
 - 📫 How to reach me **pasindu.pub@gmail.com**
 
 - ⚡ Fun fact **😎**
+  
+- ✔️ Connect with me [Pasindu Bathiya](https://www.linkedin.com/in/pasindu-bathiya/)
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/pasindu-bathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu bathiya" height="30" width="40" /></a>
+
+
 
 
 
