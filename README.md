@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **😎**
   
-- ✔️ Connect with me [Pasindu Bathiya](https://www.linkedin.com/in/pasindu-bathiya/)
+- ✔️ LinkedIn [Pasindu Bathiya](https://www.linkedin.com/in/pasindu-bathiya/)
 
 
 
