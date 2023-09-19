@@ -10,8 +10,6 @@
 - 💬 Ask me about **JavaScript, Python Flask, ReactJS**
 
 - 📫 How to reach me **pasindu.pub@gmail.com**
-
-- ⚡ Fun fact **😎**
   
 - ✔️ LinkedIn [Pasindu Bathiya](https://www.linkedin.com/in/pasindu-bathiya/)
 
