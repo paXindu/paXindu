@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paXindu&label=Profile%20views&color=0e75b6&style=flat" alt="paXindu" /> </p>
 
-- 🔭 I’m currently working on [Metasfresh](https://github.com/metasfresh/metasfresh)
+- 🔭 I’m currently working on [Metasfresh OSS](https://github.com/metasfresh/metasfresh)
 
 - 🌱 I’m currently learning **Docker and Kubernetes.**
 
